@@ -1,96 +1,96 @@
 
-# Gen AI - AI-Powered Web App with Next.js
+# Gen AI - KI-gestützte Web-App mit Next.js
 
-Gen AI is a web application that leverages Hugging Face's AI models to offer a range of exciting features, including image generation, text classification, and text summarization. Built with Next.js, this app provides a user-friendly interface for harnessing the power of AI in everyday applications.
+Gen AI ist eine Webanwendung, die die KI-Modelle von Hugging Face nutzt, um eine Reihe aufregender Funktionen anzubieten, darunter Bildgenerierung, Textklassifizierung und Textzusammenfassung. Diese App, die mit Next.js erstellt wurde, bietet eine benutzerfreundliche Oberfläche, um die Kraft der KI in alltäglichen Anwendungen zu nutzen.
 
-**Key Features:**
-- Image Generation
-- Text Classification
-- Text Summarizer
-- Built with Next.js
+**Hauptfunktionen:**
+- Bildgenerierung
+- Textklassifizierung
+- Textzusammenfassung
+- Erstellt mit Next.js
 
-## Table of Contents
+## Inhaltsverzeichnis
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
+- [Verwendung](#verwendung)
+- [Mitwirken](#mitwirken)
+- [Lizenz](#lizenz)
+- [Autor](#autor)
 
 ## Demo
 
-Due To Limitation of Resources I am unable to host this you can setup it locally
+Aufgrund von Ressourcenbeschränkungen kann ich dies nicht hosten. Sie können es lokal einrichten.
 
 ## Installation
 
-To run Gen AI locally, follow these steps:
+Um Gen AI lokal auszuführen, befolgen Sie diese Schritte:
 
-1. Clone the repository:
+1. Klonen Sie das Repository:
    ```bash
    git clone https://github.com/yourusername/gen-ai-website.git
    cd gen-ai-website
    ```
 
-2. Install dependencies:
+2. Installieren Sie Abhängigkeiten:
    ```bash
    npm install
    ```
 
-3. Environment Variables:
+3. Umgebungsvariablen:
    ```
-   -- rename example.env to .env.local
-   -- add hugging face api key from https://huggingface.co/settings/tokens
-   -- Paste Hugging face api key
+   -- Benennen Sie example.env in .env.local um
+   -- Fügen Sie den Hugging Face API-Schlüssel von https://huggingface.co/settings/tokens hinzu
+   -- Fügen Sie den Hugging Face API-Schlüssel ein
    ```
    
-5. Start the development server:
+5. Starten Sie den Entwicklungsserver:
    ```bash
    npm run dev
    ```
 
-4. Open your web browser and navigate to `http://localhost:3000` to use the app.
+4. Öffnen Sie Ihren Webbrowser und navigieren Sie zu `http://localhost:3000`, um die App zu verwenden.
 
-## Usage
+## Verwendung
 
-Gen AI is designed to be user-friendly. You can perform the following actions:
+Gen AI ist benutzerfreundlich gestaltet. Sie können folgende Aktionen ausführen:
 
-- **Image Generation:** Upload an image or use the default options to generate unique images.
+- **Bildgenerierung:** Laden Sie ein Bild hoch oder verwenden Sie die Standardeinstellungen, um einzigartige Bilder zu generieren.
 
-- **Text Classification:** Enter text, and the AI model will classify it into relevant categories.
+- **Textklassifizierung:** Geben Sie Text ein, und das KI-Modell wird ihn in relevante Kategorien einordnen.
 
-- **Text Summarizer:** Provide a piece of text, and the AI will generate a concise summary.
+- **Textzusammenfassung:** Geben Sie einen Textabschnitt ein, und die KI wird eine prägnante Zusammenfassung generieren.
 
-Explore the potential of AI in your tasks with Gen AI.
+Entdecken Sie das Potenzial der KI in Ihren Aufgaben mit Gen AI.
 
-## Contributing
+## Mitwirken
 
-We welcome contributions from the open-source community. If you'd like to contribute to Gen AI, please follow these steps:
+Wir begrüßen Beiträge aus der Open-Source-Gemeinschaft. Wenn Sie zu Gen AI beitragen möchten, befolgen Sie bitte diese Schritte:
 
-1. Fork the repository.
+1. Forken Sie das Repository.
 
-2. Create a new branch for your feature or bug fix:
+2. Erstellen Sie einen neuen Branch für Ihr Feature oder Ihre Fehlerbehebung:
    ```bash
    git checkout -b feature-name
    ```
 
-3. Make your changes and commit them:
+3. Machen Sie Ihre Änderungen und committen Sie sie:
    ```bash
-   git commit -m "Description of your changes"
+   git commit -m "Beschreibung Ihrer Änderungen"
    ```
 
-4. Push your changes to your forked repository:
+4. Pushen Sie Ihre Änderungen in Ihr geforktes Repository:
    ```bash
    git push origin feature-name
    ```
 
-5. Create a pull request to the main repository.
+5. Erstellen Sie eine Pull-Anfrage zum Hauptrepository.
 
-We appreciate your contributions!
+Wir schätzen Ihre Beiträge!
 
-## License
+## Lizenz
 
-This project is licensed under the [MIT License](LICENSE).
+Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
 
-## Author
+## Autor
 
-Gen AI is created by Diwanshu Midha.
+Gen AI wurde von Diwanshu Midha erstellt.
